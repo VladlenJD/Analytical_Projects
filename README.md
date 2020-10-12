@@ -9,5 +9,5 @@ https://nbviewer.jupyter.org/gist/VladlenJD/5415e200e6be31d32b23c8f7ad0e5781
 Project_2.
 
 Search and analysis of anomalies in ad data.
-
+https://nbviewer.jupyter.org/gist/VladlenJD/4f599ebc1b40a94dbabe8b4c3fd2c0f7
 
