@@ -11,3 +11,6 @@ Project_2.
 Search and analysis of anomalies in ad data.
 https://nbviewer.jupyter.org/gist/VladlenJD/4f599ebc1b40a94dbabe8b4c3fd2c0f7
 
+Project_3_mini.
+Search and analysis of the bookings dataset.
+
