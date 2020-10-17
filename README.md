@@ -17,5 +17,6 @@ Search and analysis of the bookings dataset.
 https://nbviewer.jupyter.org/gist/VladlenJD/c9ef6a138979e9653ff57ab453292d43
 
 Project_4.
+
 Search and analysis of the ADS and CLIENTS datasets.
 https://nbviewer.jupyter.org/gist/VladlenJD/bb79545d1b7ff44dff23eefc01665601
